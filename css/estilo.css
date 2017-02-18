@@ -1,0 +1,286 @@
+body {
+	background-color:#F93;
+	margin:0px;
+}
+
+#cabeca{
+	width:100%;
+	height:250px;
+	background-color:#F90;
+	position:fixed;
+	z-index:3;
+	margin-top:-250px;
+	
+}
+
+#banner{
+	width:1024px;
+	height:200px;
+	position:relative;
+	z-index:4;
+	margin:auto;
+	background-image:url(../img/bannertop.png);
+	}
+
+
+#conteudo{
+	width:70%;
+	background-color:#F93;
+	margin:auto;
+	position:relative;
+	z-index:2;
+	margin-top:250px;
+	
+	
+}
+
+#conteudops{
+	width:70%;
+	background-color:#F93;
+	margin:auto;
+	position:relative;
+	z-index:2;
+	margin-top:250px;
+	
+	
+}
+
+#conteudoda{
+	width:70%;
+	background-color:#F93;
+	margin:auto;
+	position:relative;
+	z-index:2;
+	margin-top:250px;
+	
+}
+
+#conteudops{
+	width:70%;
+	background-color:#F93;
+	margin:auto;
+	position:relative;
+	z-index:2;
+	margin-top:250px;
+	height:300px;
+	
+}
+
+#conteudodm{
+	width:70%;
+	background-color:#F93;
+	margin:auto;
+	position:relative;
+	z-index:2;
+	margin-top:250px;
+	
+}
+
+#conteudodf{
+	width:70%;
+	background-color:#F93;
+	margin:auto;
+	position:relative;
+	z-index:2;
+	margin-top:250px;
+	
+}
+
+#conteudoot{
+	width:70%;
+	background-color:#F93;
+	margin:auto;
+	position:relative;
+	z-index:2;
+	margin-top:250px;
+	
+}
+
+
+#conteudok{
+	width:70%;
+	background-color:#F93;
+	margin:auto;
+	position:relative;
+	z-index:2;
+	margin-top:250px;
+	
+	
+	
+}
+
+#conteudoppc{
+	width:70%;
+	background-color:#F93;
+	margin:auto;
+	position:relative;
+	z-index:2;
+	margin-top:250px;
+	
+	
+	
+}
+
+
+
+#mensa{
+	width:100%;
+	height:400px;
+	background-color:#F93;
+	margin-top:5px;
+	position:absolute;
+	z-index:3;
+	margin:center;
+}
+
+#formu{
+	width:100%;
+	height:400px;
+	background-color:#F93;
+	margin-top:200px;
+	position:absolute;
+	z-index:3;
+	
+}
+
+.estate{
+    margin-left:600px;
+    margin-top:-20px;
+}
+
+
+
+.font1{
+	text-align:center;
+	font-family: Adobe Gothic Std B, Arial Rounded MT Bold, Kozuka Gothic Pro M;
+	font-size:20px;
+	}
+	
+.font2{
+	text-align:center;
+	font-family:Adobe Fan Heiti Std B, Arial, Franklin Gothic Book;
+
+}
+
+.font3{
+	text-align:center;
+	font-family:Adobe Fan Heiti Std B, Arial, Franklin Gothic Book;
+	
+}
+
+.cadnome,.email{
+	margin-left:15%;
+	size:60px;
+}
+
+.hcont{
+	width:70%;
+	height:1150px;
+	margin-left:150px;
+	font-size:18px;
+	margin:auto;
+}
+
+#conteudok ul  {
+	width:70%;
+	height:100px;
+	margin-left:150px;
+	font-size:18px;
+	margin:auto;
+	}
+	
+.dfcont{
+		width:70%;
+	height:200px;
+	margin-left:150px;
+	font-size:18px;
+	margin:auto;
+}
+
+.kcont{
+	width:70%;
+	margin-left:150px;
+	font-size:18px;
+	margin:auto;
+}
+
+
+#conteudo ul  {
+	width:70%;
+	height:200px;
+	margin-left:150px;
+	font-size:18px;
+	margin:auto;
+	}
+
+#conteudodf ul  {
+	width:70%;
+	height:50px;
+	margin-left:150px;
+	font-size:18px;
+	margin:auto;
+
+	}
+
+#conteudoda ul  {
+	width:70%;
+	height:120px;
+	margin-left:150px;
+	font-size:18px;
+	margin:auto;
+
+	}
+
+#conteudodm ul  {
+	width:70%;
+	height:120px;
+	margin-left:150px;
+	font-size:18px;
+	margin:auto;
+
+	}
+
+#conteudoot ul  {
+	width:70%;
+	height:120px;
+	margin-left:150px;
+	font-size:18px;
+	margin:auto;
+
+	}
+#conteudops ul  {
+	width:70%;
+	height:620px;
+	margin-left:150px;
+	font-size:18px;
+	margin:auto;
+
+	}
+#conteudoppc ul  {
+	width:70%;
+	margin-left:150px;
+	font-size:18px;
+	margin:auto;
+
+	}
+#conteudoppc ol  {
+	width:70%;
+	height:120px;
+	margin-left:150px;
+	font-size:18px;
+	margin:auto;
+	
+
+	}
+
+a{
+	color:#000;
+	font-weight:bold;
+	
+}
+
+.formulario{
+	background-color:#F93;
+}
+
+

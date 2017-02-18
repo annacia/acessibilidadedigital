@@ -1,0 +1,200 @@
+@media screen and (max-width:800px){
+	
+    .fe{
+        margin-left:140px;
+        margin-top:20px;
+    }
+    
+    .estate{
+        margin-left:540px;
+		margin-top:-39px;
+    }
+    
+	#cabeca{
+	width:100%;
+	height:150px;
+	background-color:#ff9e28;
+	position:fixed;
+	z-index:3;
+	
+	
+}
+
+#banner{
+	width:512px;
+	height:100px;
+	position:relative;
+	z-index:4;
+	margin:auto;
+	background-image:url(../img/bannertop1.png);
+	}
+    
+	
+#formu{
+	width:100%;
+	height:400px;
+	background-color:#ffbf76;
+	margin-top:200px;
+	position:absolute;
+	z-index:3;
+	margin-left:-30px;
+	
+	
+}
+    
+    #conteudodf ul  {
+	width:70%;
+	height:150px;
+	margin-left:150px;
+	font-size:18px;
+	margin:auto;
+    margin-top:100px;
+
+	}
+    
+    #conteudodm ul  {
+	width:70%;
+	height:120px;
+	margin-left:150px;
+	font-size:18px;
+	margin:auto;
+    margin-top:150px;
+	}
+    
+    #conteudoot ul  {
+	width:70%;
+	height:120px;
+	margin-left:150px;
+	font-size:18px;
+	margin:auto;
+    margin-top: 200px;
+
+	}
+      
+}
+@media screen and (max-width:360px){
+	body{
+		width:80%;
+	}
+	#cabeca{
+	width:100%;
+	height:60px;
+	background-color:#ff9e28;
+	position:fixed;
+	z-index:3;
+	margin:center;
+	
+	
+}
+
+#banner{
+	width:256px;
+	height:50px;
+	position:relative;
+	z-index:4;
+	margin:auto;
+	background-image:url(../img/bannertop2.png);
+	}
+	
+#formu{
+	height:400px;
+	background-color:#ffbf76;
+	margin-top:200px;
+	position:absolute;
+	z-index:3;
+	margin-left:-30px;
+	
+	
+}
+
+#conteudo {
+	width:80%;
+	height:250px;
+}
+
+#mensa{
+	margin-left:50px;
+	margin-top:-100px;
+}
+    
+    #conteudodf ul  {
+	width:70%;
+	height:150px;
+	margin-left:150px;
+	font-size:18px;
+	margin:auto;
+    margin-top:800px;
+
+	}
+    
+    #conteudodm ul  {
+	width:70%;
+	height:120px;
+	margin-left:150px;
+	font-size:18px;
+	margin:auto;
+    margin-top:700px;
+	}
+    
+    #conteudoot ul  {
+	width:70%;
+	height:120px;
+	margin-left:150px;
+	font-size:18px;
+	margin:auto;
+    margin-top: 900px;
+
+	}
+    
+    #conteudoppc {
+        height:1000px;
+    }
+    
+    #conteudoppc ul  {
+	width:70%;
+	margin-left:150px;
+	font-size:18px;
+	margin:auto;
+    margin-top: 300px;
+    
+	}
+    
+    .cadnome{
+		width:250px;
+	}
+	
+	.estate{
+		margin-left:290px;
+	}
+	
+	.email{
+		width:300px;
+	}
+	.fe{
+		margin-left:70px;
+	}
+	.ma,.nquero{
+		margin-top:15px;
+		margin-left:70px;
+	}
+	.font2,.font3{
+		margin-left:150px;
+	}
+	.assuntoo{
+		width:300px;
+		margin-left:-110px;
+	}
+	.texto{
+		width:300px;
+		height:150px;
+		margin-left:-110px;
+	}
+	.enviarr{
+		margin-left:-40px;
+	}
+	
+	
+		
+	
+    
+}
